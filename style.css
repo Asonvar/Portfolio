@@ -1,6 +1,15 @@
 body {
-    background-color:rgb(57, 17, 17)
+    background-color:rgb(14, 15, 25);
 }
-* {
-    color:white
+main {
+    color:white;
+}
+
+#header{
+    background-color:rgb(41, 14, 14);
+    color:white;
+}
+
+.skillicons {
+    background-color:aliceblue
 }
